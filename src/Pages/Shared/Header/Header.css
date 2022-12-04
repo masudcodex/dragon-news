@@ -1,0 +1,16 @@
+.category-link{
+    color: #ffffff;
+}
+.navbar a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.navbar a:hover{
+    color: antiquewhite;
+}
+.dropdown-menu{
+    background-color: #0d6efd !important;
+}
+.dropdown-item:hover{
+    background-color: #0064f9 !important;
+}
